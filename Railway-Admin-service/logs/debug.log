@@ -1,0 +1,8 @@
+2022-05-15 19:49:59 [main] INFO  main.RailwayAdminServiceApplication -
+				Starting RailwayAdminServiceApplication using Java 17.0.2 on LAPTOP-5UL06KI2 with PID 35904 (C:\Users\ujjwa\Downloads\Online-Railway-reservation-Sys\Railway-Admin-service\target\classes started by ujjwa in C:\Users\ujjwa\Downloads\Online-Railway-reservation-Sys\Railway-Admin-service)
+2022-05-15 19:49:59 [main] DEBUG main.RailwayAdminServiceApplication -
+				Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-15 19:49:59 [main] INFO  main.RailwayAdminServiceApplication -
+				No active profile set, falling back to 1 default profile: "default"
+2022-05-15 19:50:04 [main] INFO  main.RailwayAdminServiceApplication -
+				Started RailwayAdminServiceApplication in 5.312 seconds (JVM running for 5.92)
